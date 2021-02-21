@@ -2,6 +2,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [Links](#Links)
 
 ## General info
 This project is a simple mobile responsive portfolio. It purpose is to showcase the use of Bootstrap, and deevelope the portfolio site with the following items:
